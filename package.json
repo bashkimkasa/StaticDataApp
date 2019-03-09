@@ -1,0 +1,25 @@
+{
+  "name": "StaticDataApp",
+  "version": "1.0.0",
+  "description": "GraphQL StaticDataApp",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "keywords": [
+    "base",
+    "project",
+    "node",
+    "express",
+    "structure"
+  ],
+  "author": "Bashkim Kasa",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.1.1"
+  }
+}
